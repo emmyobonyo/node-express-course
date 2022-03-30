@@ -15,7 +15,7 @@ app.get('/users', function(req,res){
 })
 
 // get method also takes two arguments
-// a string a function.
+// a string (path that will respond to the get function) and a function.
 // listen method takes two arguments.
 // a port number and a function.
 
